@@ -1,4 +1,4 @@
 fed funds futures screen. </br>
 - requires FRED API KEY 
 
-<img width="949" height="517" alt="Image" src="https://github.com/user-attachments/assets/eb8b67e9-55aa-45d7-b554-75df536c606e" />
+<img width="890" height="526" alt="Image" src="https://github.com/user-attachments/assets/5c78f30f-d133-44fa-9236-19ef5b8114d1" />
